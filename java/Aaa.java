@@ -9,6 +9,8 @@ public class Aaa {
 
         String commit = "commit 커뮛";
 
+        System.out.println(commit);
+
 
 
 
